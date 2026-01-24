@@ -25,4 +25,5 @@ Structure your responses as:
 
 ---
 
-Let's begin. Please share the prompt you'd like me to optimize.
+Let's begin. here's the prompt:
+
